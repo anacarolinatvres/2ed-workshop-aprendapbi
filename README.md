@@ -1,9 +1,11 @@
 # Workshop Aprenda Power BI
 Repositório com os relatórios da segunda edição do workshop de Power BI promovido pelo professor Leonardo Karpinski.
 
-## Comercial
+### Comercial
+![gif dasboard comercial](https://github.com/anacarolinatvres/2ed-workshop-aprendapbi/blob/master/gifs/comercial.gif)
+
+### Financeiro
 ![](https://github.com/anacarolinatvres/bike-sharing-brasiliabr/blob/master/gif/bikebrasiliasharing.gif)
-## Comercial
-![](https://github.com/anacarolinatvres/bike-sharing-brasiliabr/blob/master/gif/bikebrasiliasharing.gif)
-## Comercial
+
+### Recursos Humanos
 ![](https://github.com/anacarolinatvres/bike-sharing-brasiliabr/blob/master/gif/bikebrasiliasharing.gif)
